@@ -1,12 +1,10 @@
 Here is a revised **README.md for KIVI**, fully written in **third-person perspective** and avoiding the word *“you”*.
 
----
 
 # **KIVI 🎲🟦**
 
 **KIVI** is a strategic board-and-dice game in which players roll **six dice** and place stones on a scoring grid based on the resulting dice combinations. The game blends probability, tactical placement, and pattern-building to determine the ultimate winner.
 
----
 
 ## 🎮 **Game Overview**
 
@@ -22,13 +20,11 @@ If no valid square exists for the rolled combinations, the stone for that round 
 The game is played for **ten rounds**, matching the ten stones available to each player.
 After ten rounds, all stones on the board are scored.
 
----
 
 # 🎲 **Dice Combinations**
 
 The following combinations determine which grid squares are available for placement:
 
----
 
 ## **1-Point Combinations**
 
@@ -44,7 +40,6 @@ The following combinations determine which grid squares are available for placem
 * **Full house**
   Three dice show one value and two dice show another.
 
----
 
 ## **2-Point Combinations**
 
@@ -66,8 +61,6 @@ The following combinations determine which grid squares are available for placem
 * **30 or more**
   The sum of all dice is **30 or more**.
 
----
-
 ## **3-Point Combinations**
 
 * **Three pairs**
@@ -78,8 +71,6 @@ The following combinations determine which grid squares are available for placem
 
 * **Four of a kind and a pair**
   Four dice share one value, and the remaining two dice share another.
-
----
 
 ## **Special Combinations**
 
@@ -102,7 +93,6 @@ Additionally:
 * Multiple matching combinations allow the player to choose among the corresponding squares.
 * Inability to place a stone results in the stone being removed from play for that round.
 
----
 
 # 🧮 **Scoring**
 
